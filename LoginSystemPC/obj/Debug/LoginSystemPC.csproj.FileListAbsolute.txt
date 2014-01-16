@@ -1,0 +1,12 @@
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\bin\Debug\LoginSystemPC.exe.config
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\bin\Debug\LoginSystemPC.exe
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\bin\Debug\LoginSystemPC.pdb
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.csprojResolveAssemblyReference.cache
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.Form1.resources
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.Properties.Resources.resources
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.csproj.GenerateResource.Cache
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.exe
+C:\Users\joal\Dropbox\Coding stuff\visual studio projects\LoginSystemPC\LoginSystemPC\obj\Debug\LoginSystemPC.pdb
+C:\Users\joal\Documents\Visual Studio 2013\Projects\LoginSystemTut\LoginSystemPC\bin\Debug\LoginSystemPC.exe.config
+C:\Users\joal\Documents\Visual Studio 2013\Projects\LoginSystemTut\LoginSystemPC\obj\Debug\LoginSystemPC.exe
+C:\Users\joal\Documents\Visual Studio 2013\Projects\LoginSystemTut\LoginSystemPC\obj\Debug\LoginSystemPC.pdb
